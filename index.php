@@ -2,7 +2,7 @@
 <html>
 <head>
 
-  <title>EH software</title>
+  <title>EH Software</title>
 
   <style>
     body {
