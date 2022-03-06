@@ -43,13 +43,8 @@
     }
   </style>
 
-  <script type="text/javascript">
-
-  </script>
-
 </head>
 <body>
-
   <div class="topnav">
     <a class="home">EH software</a>
     <a>downloads</a>
