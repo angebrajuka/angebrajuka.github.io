@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #222;
+    color: #ddd;
+}
+
+p {
+    padding: 10px 10px;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #444;
+}
+
+.topnav a, .topnav a.home:visited, .topnav a:visited {
+    color: #fff;
+}
+
+.topnav a {
+    padding: 10px 20px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    font-size: 15pt;
+    float: left;
+}
+
+.topnav a:hover {
+    background-color: #666;
+}
+
+.topnav a.home {
+    background-color: #8672bd;
+}
+
+.topnav a.home:hover {
+    background-color: #b499ff;
+}
