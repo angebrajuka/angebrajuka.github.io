@@ -31,6 +31,10 @@ p {
     background-color: #666;
 }
 
+.download {
+    margin-left: 20px;
+}
+
 .topnav a.home {
     margin-left: 20px;
     background-color: #8672bd;
